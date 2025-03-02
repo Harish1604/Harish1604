@@ -59,6 +59,10 @@ I'm a passionate **Full Stack Developer, Cloud Computing Enthusiast, and Embedde
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true)
 
+### 📌 Most Used Languages
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=radical)
+![Most Used Languages (Detailed)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-github-username&theme=radical)
+
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://github.com/your-github-username" target="_blank">
@@ -73,5 +77,4 @@ I'm a passionate **Full Stack Developer, Cloud Computing Enthusiast, and Embedde
 </p>
 
 Let's collaborate and build something amazing! 🚀
-
 

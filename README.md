@@ -53,15 +53,15 @@ I'm a passionate **Full Stack Developer, Cloud Computing Enthusiast, and Embedde
 - Cloud Computing
 
 ## 📊 GitHub Stats
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish1604&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1604&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish1604&theme=radical&hide_border=true)
 
 ### 📌 Most Used Languages
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=radical)
-![Most Used Languages (Detailed)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-github-username&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish1604&theme=radical)
+![Most Used Languages (Detailed)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish1604e&theme=radical)
 
 ## 📫 Connect with Me
 <p align="left">

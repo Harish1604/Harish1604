@@ -66,7 +66,7 @@ I'm a passionate **Full Stack Developer, Cloud Computing Enthusiast, and Embedde
   <a href="https://github.com/your-github-username" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/harish16042005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">

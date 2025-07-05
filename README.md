@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-Hey! I'm a passionate **Full Stack Developer**, a **Cloud + Blockchain Enthusiast**, and a die-hard tech explorer. I love building scalable apps, diving deep into AWS, and geeking out over decentralization. Currently working on a **modern ERP startup** while leveling up my cloud game.
+Hey! I'm a passionate **Full Stack Developer**, a **Cloud + Blockchain Enthusiast**. I love building scalable apps, diving deep into AWS, and geeking out over decentralization. Currently working on a **Vendor startup** while leveling up my cloud game.
 
 ---
 

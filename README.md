@@ -1,95 +1,132 @@
-# 👋 Hey there, I'm Harish!
+<h1 align="center">Hi, I'm Harish</h1>
+<h3 align="center">Full Stack Developer • Backend Engineer • Cloud & Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76CFF&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+%F0%9F%92%BB;Cloud+%2B+Blockchain+Explorer+%E2%98%81%EF%B8%8F%E2%9A%99%EF%B8%8F;Cloud+Practitioner+in+progress+%F0%9F%8C%8D;Let's+build+something+amazing!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Building+real-world+products+with+clean+architecture;Backend+%7C+Cloud+%7C+Frontend+%7C+Distributed+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+Go;Always+learning.+Always+shipping." />
 </p>
 
 ---
 
-## 🚀 About Me  
-Hey! I'm a passionate **Full Stack Developer**, a **Cloud + Blockchain Enthusiast**. I love building scalable apps, diving deep into AWS, and geeking out over decentralization. Currently working on a **Vendor startup** while leveling up my cloud game.
+## About Me
+
+- Computer Science Student  
+- Full Stack Developer focused on scalable applications  
+- Strong interest in Backend Engineering, Cloud Infrastructure, Security, and System Design  
+- Hands-on with AWS, Linux, Networking, Deployment, DevOps  
+- Built projects in Blockchain, Distributed Systems, Cloud Platforms  
+- Sony AITRIOS Hackathon Finalist (Top 15 India)  
+- Focused on building production-style systems with strong fundamentals  
 
 ---
 
-# 🛠️ Technologies & Skills
+## Current Focus
 
-## 👨‍💻 Languages  
-![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-## 🧩 Frameworks & Libraries  
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
-![Electron](https://img.shields.io/badge/electron-%2320232a.svg?&style=for-the-badge&logo=electron&logoColor=white)
+- Backend Engineering (Node.js / Django / Go)  
+- Cloud & Infrastructure (AWS / CI-CD / Scaling / Monitoring)  
+- Distributed Systems & System Design  
+- Security Engineering  
+- DSA / Interview Preparation  
 
 ---
 
-## 🗃️ Databases  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+## Tech Stack
 
----
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,go,java" />
+</p>
 
-## ☁️ Cloud Hosting & Blockchain  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
-![GitHub Pages](https://img.shields.io/badge/github%20pages-%233b5998.svg?&style=for-the-badge&logo=github&logoColor=white) 
-![IPFS](https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white) 
-![Ethereum](https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
----
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,go" />
+</p>
 
-## 🧪 Tools & Software  
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
-![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+</p>
 
----
+### Cloud / DevOps / Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,ubuntu,nginx,vercel,githubactions,prometheus,grafana" />
+</p>
 
-## 💻 Operating Systems  
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📚 Currently Learning
-- ☁️ AWS Cloud Practitioner (Practicing daily on the cloud)  
-- 🔗 Blockchain Smart Contracts (Solidity, Web3, IPFS)  
-- 🌐 Full Stack Dev Tools (Next.js, Django, APIs)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish1604&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1604&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish1604&theme=radical&hide_border=true" />
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,figma" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## Featured Projects
+
+### HeliiX  
+Federated social networking platform focused on decentralization, privacy, interoperability, and instance-level governance. Designed to demonstrate distributed systems concepts where independent servers communicate without central authority. Built for protocol-level learning, federation logic, moderation policies, and resilient architecture.  
+**Live:** https://www.heliix.live
+
+### CloudShield  
+Distributed load balancing and real-time monitoring platform built with containerized infrastructure. Demonstrates reverse proxy traffic routing, backend scaling, health checks, observability, and production-style cloud architecture using DevOps practices.
+
+### SmartChain ERP  
+AI-powered warehouse and supply chain platform using Sony IMX camera, Raspberry Pi, React, Next.js, Django, PostgreSQL, and MQTT.
+
+### DeduVault  
+Decentralized deduplication system using Blockchain, IPFS, and smart contracts for storage efficiency and integrity.
+
+### Vendor ERP  
+Role-based ERP system for manufacturers and retailers with stock management, billing, analytics, and operations modules.
+
+### CostPilot  
+Cloud cost optimization and infrastructure monitoring project.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harish1604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1604&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish1604&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Achievements
+
+- Sony AITRIOS Hackathon Finalist (Top 15 India)  
+- Built multiple full-stack and cloud-focused systems  
+- Strong interest in backend, infra, and distributed engineering  
+
+---
+
+## Connect With Me
+
 <p align="left">
-  <a href="https://github.com/Harish1604" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/harish16042005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+<a href="https://github.com/Harish1604">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/harish16042005/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-> ☁️ Let's connect, collaborate, and innovate — cloud-first, blockchain-powered, and dev-mode always ON. 🚀
+## Quote
+
+> Build skills. Build systems. Build credibility.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harish1604&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>

@@ -6,8 +6,6 @@
 </p>
 
 ---
-
-
 ## About Me
 
 - Computer Science Student  

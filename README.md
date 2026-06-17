@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Building+real-world+products+with+clean+architecture;Backend+%7C+Cloud+%7C+Frontend+%7C+Distributed+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+Go;Always+learning.+Always+shipping." />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<br><br>
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</p>
 ---
 
 ## About Me
